@@ -2,6 +2,6 @@
 
 
 Autocomplete from database 
-set up database 
+set up database <br>
 connect in autocompleteApi.php
 remodel the form as needed
